@@ -1,6 +1,5 @@
 # oh hi 😃🪶
-- 
-About Me
+# About Me
 Hey, I'm Kevin Ramos, 4th Year Computer Science student from Holy Angel University, in Angeles City, Pampanga.
 
 # Tech Stack
@@ -26,4 +25,4 @@ Hey, I'm Kevin Ramos, 4th Year Computer Science student from Holy Angel Universi
   </thead>
 </table>
 
-# Contact Me
+
