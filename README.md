@@ -28,7 +28,7 @@ Oh hi 😃🪶. I'm Kevin Ramos, 4th Year Computer Science student from Holy Ang
         <img
           src="https://streak-stats.demolab.com/?user=kevinzekee&theme=tokyonight"
           alt="kevinzekee's GitHub Stats"
-          width="350"
+          width="450"
         />
       </td>
     </tr>
