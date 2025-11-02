@@ -4,8 +4,9 @@ Oh hi 😃🪶. I'm Kevin Ramos, 4th Year Computer Science student from Holy Ang
 
 
 # Currently Learning:
-<div align="center">
+<div>
   <span>MySQL & Ubuntu Integration</span>
+  <br />
   <br />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
