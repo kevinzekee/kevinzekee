@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://streak-stats.demolab.com?user=kevinzekee&theme=default&hide_border=true" alt="kevinzekee's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=kevinzekee&theme=dark&hide_border=true" alt="kevinzekee's GitHub Stats" />
 
 <!--
 **kevinzekee/kevinzekee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
