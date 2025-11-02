@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzekee&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="kevinzekee's GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=kevinzekee&theme=dark&hide_border=true" alt="kevinzekee's GitHub Stats" />
 
 <!--
