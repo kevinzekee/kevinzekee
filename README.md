@@ -21,18 +21,24 @@ Oh hi 😃🪶. I'm Kevin Ramos, 4th Year Computer Science student from Holy Ang
         <img
           src="https://github-readme-stats.vercel.app/api?username=kevinzekee&show_icons=true&locale=en&theme=tokyonight&count_private=true"
           alt="kevinzekee's GitHub Stats"
+          width="350"
         />
       </td>
       <td>
         <img
           src="https://streak-stats.demolab.com/?user=kevinzekee&theme=tokyonight"
           alt="kevinzekee's GitHub Stats"
+          width="350"
         />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzekee&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" 
-          alt="kevinzekee's GitHub Stats" 
-          />
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzekee&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"
+          alt="kevinzekee's GitHub Stats"
+          width="700"  
+        />
       </td>
     </tr>
   </thead>
