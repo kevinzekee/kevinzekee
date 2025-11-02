@@ -28,12 +28,12 @@ Oh hi 😃🪶. I'm Kevin Ramos, 4th Year Computer Science student from Holy Ang
         <img
           src="https://streak-stats.demolab.com/?user=kevinzekee&theme=tokyonight"
           alt="kevinzekee's GitHub Stats"
-          width="450"
+          width="375"
         />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" >
+      <td  align="center" >
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzekee&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"
           alt="kevinzekee's GitHub Stats"
